@@ -1,5 +1,5 @@
 layout: page
 title: "About Me"
-permalink: /about-info/
+permalink: /aboutme/
 
 # This is gonna be an info page
