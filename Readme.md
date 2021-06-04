@@ -1,4 +1,4 @@
 # Hello!
 ## Mid Term Project Portfolio Website
 
-This is [an example](http://example.com/ "Title") inline link.
+This is [my info and resume](https://mpacki59.github.io/about/info/) for you to look at!
