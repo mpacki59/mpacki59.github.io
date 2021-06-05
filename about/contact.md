@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About Me"
+title: "Contact Me"
 permalink: /about/contact/
 theme: jekyll-theme-hacker
 ---
