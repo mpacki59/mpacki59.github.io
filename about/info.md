@@ -2,6 +2,7 @@
 layout: page
 title: "About Me"
 permalink: /about/info/
+theme: jekyll-theme-hacker
 ---
 
 (Mid Term Mini project  - (Adv) Web Programming Course)
