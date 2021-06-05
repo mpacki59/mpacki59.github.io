@@ -3,7 +3,7 @@
 
 ### I enjoy building and programming robots.
 
-  Coding is a passion, and I've done quite a bit of it- from web design interning, to human-computer interaction mentored research. 
+  Coding is a passion, and I've done quite a bit of it- from web design interning, to human-computer interaction mentored research. And of course, robots.
   
   ![Alt text](/IMG_2056.png)
 
