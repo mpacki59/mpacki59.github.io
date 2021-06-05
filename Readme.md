@@ -3,8 +3,10 @@
 
 ### I enjoy building and programming robots.
 
-![Alt text] mpacki59.github.io/IMG_2056.png
-![Alt text] mpacki59.github.io/IMG_2057.png
+  Coding is a passion, and I've done quite a bit of it- from web design interning, to human-computer interaction mentored research. 
+  
+  
 
+This is [some cool things I've done in the past](https://mpacki59.github.io/about/info/) for you to look at!  
 
-This is [my info and resume](https://mpacki59.github.io/about/info/) for you to look at!
+Here is [my contact information](https://mpacki59.github.io/about/contact/) if you'd like to speak further with me!
