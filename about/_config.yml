@@ -1,5 +1,4 @@
 title: mpacki59.github.io
-baseurl: "/mpacki59.github.io/"
 url: "https://mpacki59.github.io/"
 markdown: kramdown
 theme: jekyll-theme-hacker
