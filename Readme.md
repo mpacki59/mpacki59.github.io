@@ -5,7 +5,7 @@
 
   Coding is a passion, and I've done quite a bit of it- from web design interning, to human-computer interaction mentored research. 
   
-  
+  ![Alt text](/IMG_2056.png)
 
 This is [some cool things I've done in the past](https://mpacki59.github.io/about/info/) for you to look at!  
 
