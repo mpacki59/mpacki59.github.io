@@ -10,4 +10,4 @@ Email: mike.r.packi@gmail.com
 Phone #: (856) 236-7884   
 Github: mpacki59
 
-![Alt text](/octocat.jpg)
+![Alt text](/octocat.jpeg)
