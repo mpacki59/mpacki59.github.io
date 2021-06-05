@@ -3,6 +3,9 @@ layout: page
 title: "About Me"
 permalink: /about/info/
 ---
+
+(Mid Term Mini project  - (Adv) Web Programming Course)
+
 # Past CS Employment:
 
 ***Lockheed Martin:***  
